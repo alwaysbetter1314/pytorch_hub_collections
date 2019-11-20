@@ -12,8 +12,8 @@ Except for models in [torch.hub,torchvison], Efficient-net should be added into 
 > perhaps,the net is same as torchvison.models.resnet18(pretrained=True)
 
 ## Other
-replace 'chenfengshf/torch_hub_collections' with follow items.
-And other models gathered are as follows:
+Just replace 'chenfengshf/torch_hub_collections' with follow items.
+
 1. facebookresearch/WSL-Images
 
 > ['resnext101_32x16d_wsl', 'resnext101_32x32d_wsl', 'resnext101_32x48d_wsl', 'resnext101_32x8d_wsl']
