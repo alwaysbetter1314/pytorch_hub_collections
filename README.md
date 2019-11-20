@@ -6,13 +6,13 @@ Except for models in [torch.hub,torchvison], Efficient-net should be added into 
 
 ## Usage
 1. you can check out the list of models:  
-`torch.hub.list('chenfengshf/torch_hub_collections')`
+`torch.hub.list('chenfengshf/pytorch_hub_collections')`
 2. load model and weights :  
-`net = torch.hub.load('chenfengshf/torch_hub_collections','resnet18')`
+`net = torch.hub.load('chenfengshf/pytorch_hub_collections','resnet18')`
 > perhaps,the net is same as torchvison.models.resnet18(pretrained=True)
 
 ## Other
-Just replace 'chenfengshf/torch_hub_collections' with follow items.
+Just replace 'chenfengshf/pytorch_hub_collections' with follow items.
 
 1. facebookresearch/WSL-Images
 
